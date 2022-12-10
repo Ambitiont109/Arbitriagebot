@@ -10,7 +10,7 @@
     "@zeit/next-css": "^1.0.1",
     "antd": "^3.9.2",
     "babel-plugin-import": "^1.9.1",
-    "express": "^4.16.4",
+    "express": "^4.17.3",
     "next": "latest",
     "node-binance-api": "^0.8.4",
     "react": "^16.5.2",
